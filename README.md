@@ -62,7 +62,7 @@ curl -fsSL https://pixi.sh/install.sh | bash
 
 Clone the repository and navigate to the project directory:
 ```bash
-git clone https://github.com/alejandrofontan/VSLAM-LAB.git && cd VSLAM-LAB
+git clone https://github.com/VSLAM-LAB/VSLAM-LAB.git && cd VSLAM-LAB
 ```
 
 ## Quick Demo
